@@ -4,7 +4,7 @@
 
 
 
-![](C:\Users\maykon%20vinicius\OneDrive\Imagens\html.png) ![](C:\Users\maykon%20vinicius\OneDrive\Imagens\css.png) ![](C:\Users\maykon%20vinicius\OneDrive\Imagens\bootstrap.png) 
+![logo da tecnologia HTML](https://github.com/MVinicius3091/BootcampCarrefour-Bootstrap/blob/master/img/html.png) ![logo da tec css](https://github.com/MVinicius3091/BootcampCarrefour-Bootstrap/blob/master/img/css.png) ![logo da tec Bootstrap](https://github.com/MVinicius3091/BootcampCarrefour-Bootstrap/blob/master/img/bootstrap.png) 
 
 
 
